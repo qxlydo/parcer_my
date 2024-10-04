@@ -1,0 +1,2884 @@
+{
+    "vtuname": [
+        {
+            "name": "Gawr Gura",
+            "sub": 4510000
+        },
+        {
+            "name": "Houshou Marine",
+            "sub": 3430000
+        },
+        {
+            "name": "Kizuna AI",
+            "sub": 2990000
+        },
+        {
+            "name": "Filian",
+            "sub": 2880000
+        },
+        {
+            "name": "ZilverK",
+            "sub": 2770000
+        },
+        {
+            "name": "Usada Pekora",
+            "sub": 2610000
+        },
+        {
+            "name": "Kobo Kanaeru",
+            "sub": 2570000
+        },
+        {
+            "name": "Hoshimachi Suisei",
+            "sub": 2470000
+        },
+        {
+            "name": "Mori Calliope",
+            "sub": 2450000
+        },
+        {
+            "name": "Shirakami Fubuki",
+            "sub": 2450000
+        },
+        {
+            "name": "Minato Aqua",
+            "sub": 2280000
+        },
+        {
+            "name": "Akemi Nekomachi",
+            "sub": 2250000
+        },
+        {
+            "name": "Sakura Miko",
+            "sub": 2180000
+        },
+        {
+            "name": "Inugami Korone",
+            "sub": 2130000
+        },
+        {
+            "name": "Shigure Ui",
+            "sub": 1990000
+        },
+        {
+            "name": "Shirogane Noel",
+            "sub": 1940000
+        },
+        {
+            "name": "Nekomata Okayu",
+            "sub": 1870000
+        },
+        {
+            "name": "Hetto",
+            "sub": 1860000
+        },
+        {
+            "name": "Kuzuha",
+            "sub": 1840000
+        },
+        {
+            "name": "Hyakumantenbara Salome",
+            "sub": 1810000
+        },
+        {
+            "name": "Watson Amelia",
+            "sub": 1800000
+        },
+        {
+            "name": "Oozora Subaru",
+            "sub": 1750000
+        },
+        {
+            "name": "Gibpuri",
+            "sub": 1700000
+        },
+        {
+            "name": "Ninomae Ina\u2019nis",
+            "sub": 1590000
+        },
+        {
+            "name": "Shxtou",
+            "sub": 1580000
+        },
+        {
+            "name": "Tsunomaki Watame",
+            "sub": 1580000
+        },
+        {
+            "name": "Nakiri Ayame",
+            "sub": 1570000
+        },
+        {
+            "name": "Amane Kanata",
+            "sub": 1540000
+        },
+        {
+            "name": "Takanashi Kiara",
+            "sub": 1540000
+        },
+        {
+            "name": "Akai Haato",
+            "sub": 1510000
+        },
+        {
+            "name": "Nimu Spacecat",
+            "sub": 1490000
+        },
+        {
+            "name": "Chessi",
+            "sub": 1470000
+        },
+        {
+            "name": "Shishiro Botan",
+            "sub": 1460000
+        },
+        {
+            "name": "Nyatasha Nyanners",
+            "sub": 1450000
+        },
+        {
+            "name": "Tokoyami Towa",
+            "sub": 1450000
+        },
+        {
+            "name": "Natsuiro Matsuri",
+            "sub": 1440000
+        },
+        {
+            "name": "Gamster Gaming",
+            "sub": 1420000
+        },
+        {
+            "name": "Rakkun",
+            "sub": 1420000
+        },
+        {
+            "name": "Kiryu Coco",
+            "sub": 1390000
+        },
+        {
+            "name": "Kanae",
+            "sub": 1360000
+        },
+        {
+            "name": "MillyMusiiC",
+            "sub": 1360000
+        },
+        {
+            "name": "Moona Hoshinova",
+            "sub": 1360000
+        },
+        {
+            "name": "Kureiji Ollie",
+            "sub": 1350000
+        },
+        {
+            "name": "Uruha Rushia",
+            "sub": 1340000
+        },
+        {
+            "name": "Vox Akuma",
+            "sub": 1340000
+        },
+        {
+            "name": "Sakamata Chloe",
+            "sub": 1300000
+        },
+        {
+            "name": "Tsukino Mito",
+            "sub": 1280000
+        },
+        {
+            "name": "Fredrik Knudsen",
+            "sub": 1270000
+        },
+        {
+            "name": "Kson",
+            "sub": 1270000
+        },
+        {
+            "name": "La+ Darknesss",
+            "sub": 1260000
+        },
+        {
+            "name": "Yukihana Lamy",
+            "sub": 1260000
+        },
+        {
+            "name": "Murasaki Shion",
+            "sub": 1250000
+        },
+        {
+            "name": "Omaru Polka",
+            "sub": 1250000
+        },
+        {
+            "name": "Zerrilham",
+            "sub": 1250000
+        },
+        {
+            "name": "Momosuzu Nene",
+            "sub": 1220000
+        },
+        {
+            "name": "Ookami Mio",
+            "sub": 1220000
+        },
+        {
+            "name": "Tokino Sora",
+            "sub": 1220000
+        },
+        {
+            "name": "senzawa",
+            "sub": 1210000
+        },
+        {
+            "name": "SleepyBunsu",
+            "sub": 1200000
+        },
+        {
+            "name": "Hakui Koyori",
+            "sub": 1180000
+        },
+        {
+            "name": "Ironmouse",
+            "sub": 1150000
+        },
+        {
+            "name": "Mysta Rias",
+            "sub": 1120000
+        },
+        {
+            "name": "AZKi",
+            "sub": 1100000
+        },
+        {
+            "name": "Nanashi Mumei",
+            "sub": 1100000
+        },
+        {
+            "name": "Shiranui Flare",
+            "sub": 1090000
+        },
+        {
+            "name": "Harris Caine",
+            "sub": 1070000
+        },
+        {
+            "name": "Hoshikawa Sara",
+            "sub": 1070000
+        },
+        {
+            "name": "Yuzuki Choco",
+            "sub": 1070000
+        },
+        {
+            "name": "Kenmochi Toya",
+            "sub": 1050000
+        },
+        {
+            "name": "IRyS",
+            "sub": 1040000
+        },
+        {
+            "name": "Luca Kaneshiro",
+            "sub": 1040000
+        },
+        {
+            "name": "Zippkey",
+            "sub": 1040000
+        },
+        {
+            "name": "Himemori Luna",
+            "sub": 1030000
+        },
+        {
+            "name": "Roboco",
+            "sub": 1030000
+        },
+        {
+            "name": "GreatMoonAroma",
+            "sub": 1010000
+        },
+        {
+            "name": "Fuwa Minato",
+            "sub": 1000000
+        },
+        {
+            "name": "Kawasaki Sui",
+            "sub": 1000000
+        },
+        {
+            "name": "Nito Wai",
+            "sub": 1000000
+        },
+        {
+            "name": "Ouro Kronii",
+            "sub": 1000000
+        },
+        {
+            "name": "Inuyama Tamaki",
+            "sub": 992000
+        },
+        {
+            "name": "FUWAMOCO",
+            "sub": 975000
+        },
+        {
+            "name": "Kazama Iroha",
+            "sub": 973000
+        },
+        {
+            "name": "Takane Lui",
+            "sub": 973000
+        },
+        {
+            "name": "Hakos Baelz",
+            "sub": 960000
+        },
+        {
+            "name": "Mikeneko",
+            "sub": 957000
+        },
+        {
+            "name": "Ike Eveland",
+            "sub": 955000
+        },
+        {
+            "name": "Shu Yamino",
+            "sub": 946000
+        },
+        {
+            "name": "Mythia Batford",
+            "sub": 933000
+        },
+        {
+            "name": "Shylily",
+            "sub": 931000
+        },
+        {
+            "name": "Aki Rosenthal",
+            "sub": 918000
+        },
+        {
+            "name": "Vestia Zeta",
+            "sub": 913000
+        },
+        {
+            "name": "Ceres Fauna",
+            "sub": 896000
+        },
+        {
+            "name": "Ayunda Risu",
+            "sub": 894000
+        },
+        {
+            "name": "Lize Helesta",
+            "sub": 874000
+        },
+        {
+            "name": "Shibuya HAL",
+            "sub": 874000
+        },
+        {
+            "name": "Sasaki Saku",
+            "sub": 871000
+        },
+        {
+            "name": "Yozora Mel",
+            "sub": 866000
+        },
+        {
+            "name": "Ange Katrina",
+            "sub": 865000
+        },
+        {
+            "name": "Sun Kenji",
+            "sub": 862000
+        },
+        {
+            "name": "Axelot",
+            "sub": 859000
+        },
+        {
+            "name": "Inui Toko",
+            "sub": 850000
+        },
+        {
+            "name": "Rin Penrose",
+            "sub": 848000
+        },
+        {
+            "name": "Kaguya Luna",
+            "sub": 846000
+        },
+        {
+            "name": "Ars Almal",
+            "sub": 831000
+        },
+        {
+            "name": "Juufuutei Raden",
+            "sub": 831000
+        },
+        {
+            "name": "Yashiro Kizuku",
+            "sub": 831000
+        },
+        {
+            "name": "Higuchi Kaede",
+            "sub": 830000
+        },
+        {
+            "name": "Bao",
+            "sub": 819000
+        },
+        {
+            "name": "Suou Patra",
+            "sub": 815000
+        },
+        {
+            "name": "Pavolia Reine",
+            "sub": 808000
+        },
+        {
+            "name": "Kaela Kovalskia",
+            "sub": 787000
+        },
+        {
+            "name": "FeFe",
+            "sub": 785000
+        },
+        {
+            "name": "Shiina Yuika",
+            "sub": 785000
+        },
+        {
+            "name": "Dokibird",
+            "sub": 782000
+        },
+        {
+            "name": "Kagami Hayato",
+            "sub": 782000
+        },
+        {
+            "name": "Tachibana Hinano",
+            "sub": 780000
+        },
+        {
+            "name": "Airani Iofifteen",
+            "sub": 765000
+        },
+        {
+            "name": "KendoMurft",
+            "sub": 762000
+        },
+        {
+            "name": "Nerissa Ravencroft",
+            "sub": 762000
+        },
+        {
+            "name": "Toshiruz",
+            "sub": 747000
+        },
+        {
+            "name": "Lauren Iroas",
+            "sub": 743000
+        },
+        {
+            "name": "Honma Himawari",
+            "sub": 734000
+        },
+        {
+            "name": "Ibrahim",
+            "sub": 730000
+        },
+        {
+            "name": "Machita Chima",
+            "sub": 723000
+        },
+        {
+            "name": "Ryushen",
+            "sub": 722000
+        },
+        {
+            "name": "Selen Tatsuki",
+            "sub": 720000
+        },
+        {
+            "name": "Anya Melfissa",
+            "sub": 714000
+        },
+        {
+            "name": "Elaine Celestia",
+            "sub": 709000
+        },
+        {
+            "name": "Mayuzumi Kai",
+            "sub": 703000
+        },
+        {
+            "name": "Andi Adinata",
+            "sub": 697000
+        },
+        {
+            "name": "Alban Knox",
+            "sub": 696000
+        },
+        {
+            "name": "Kurumi Noah",
+            "sub": 695000
+        },
+        {
+            "name": "Furen E Lustario",
+            "sub": 692000
+        },
+        {
+            "name": "Whale Taylor",
+            "sub": 685000
+        },
+        {
+            "name": "Amamiya Kokoro",
+            "sub": 684000
+        },
+        {
+            "name": "Koseki Bijou",
+            "sub": 674000
+        },
+        {
+            "name": "Saegusa Akina",
+            "sub": 671000
+        },
+        {
+            "name": "Komori Met",
+            "sub": 670000
+        },
+        {
+            "name": "Mirai Akari",
+            "sub": 669000
+        },
+        {
+            "name": "Ichinose Uruha",
+            "sub": 648000
+        },
+        {
+            "name": "Dennou Shojo Siro",
+            "sub": 647000
+        },
+        {
+            "name": "Amano Pikamee",
+            "sub": 645000
+        },
+        {
+            "name": "Kaga Sumire",
+            "sub": 643000
+        },
+        {
+            "name": "Ika Gayou",
+            "sub": 641000
+        },
+        {
+            "name": "Projekt Melody",
+            "sub": 639000
+        },
+        {
+            "name": "Enna Alouette",
+            "sub": 635000
+        },
+        {
+            "name": "Yuki Chihiro",
+            "sub": 634000
+        },
+        {
+            "name": "Elu",
+            "sub": 633000
+        },
+        {
+            "name": "Kaida Haru",
+            "sub": 631000
+        },
+        {
+            "name": "Veibae",
+            "sub": 628000
+        },
+        {
+            "name": "Uki Violeta",
+            "sub": 627000
+        },
+        {
+            "name": "Punkalopi",
+            "sub": 620000
+        },
+        {
+            "name": "Ratna Petit",
+            "sub": 608000
+        },
+        {
+            "name": "Todoroki Hajime",
+            "sub": 607000
+        },
+        {
+            "name": "Gosegu",
+            "sub": 604000
+        },
+        {
+            "name": "Amatsuka Uto",
+            "sub": 603000
+        },
+        {
+            "name": "Nui Sociere",
+            "sub": 603000
+        },
+        {
+            "name": "Pomu Rainpuff",
+            "sub": 597000
+        },
+        {
+            "name": "Debidebi Debiru",
+            "sub": 589000
+        },
+        {
+            "name": "Nishizono Chigusa",
+            "sub": 588000
+        },
+        {
+            "name": "Sukoya Kana",
+            "sub": 588000
+        },
+        {
+            "name": "Gingitsune Gehenna",
+            "sub": 585000
+        },
+        {
+            "name": "Aizawa Ema",
+            "sub": 576000
+        },
+        {
+            "name": "Alia Adelia",
+            "sub": 573000
+        },
+        {
+            "name": "Rindou Mikoto",
+            "sub": 573000
+        },
+        {
+            "name": "Shiori Novella",
+            "sub": 573000
+        },
+        {
+            "name": "splendiferachie",
+            "sub": 568000
+        },
+        {
+            "name": "Suzuka Utako",
+            "sub": 567000
+        },
+        {
+            "name": "Dino Sakura",
+            "sub": 566000
+        },
+        {
+            "name": "MOTHERv3",
+            "sub": 566000
+        },
+        {
+            "name": "Sister Claire",
+            "sub": 560000
+        },
+        {
+            "name": "Suo Sango",
+            "sub": 560000
+        },
+        {
+            "name": "Nina Kosaka",
+            "sub": 558000
+        },
+        {
+            "name": "Yakumo Beni",
+            "sub": 556000
+        },
+        {
+            "name": "Hiodoshi Ao",
+            "sub": 554000
+        },
+        {
+            "name": "Nerumero",
+            "sub": 544000
+        },
+        {
+            "name": "Aisha",
+            "sub": 539000
+        },
+        {
+            "name": "Ichijou Ririka",
+            "sub": 537000
+        },
+        {
+            "name": "Yorumi Rena",
+            "sub": 532000
+        },
+        {
+            "name": "Elira Pendora",
+            "sub": 530000
+        },
+        {
+            "name": "Joe Rikiichi",
+            "sub": 528000
+        },
+        {
+            "name": "DanteWill",
+            "sub": 522000
+        },
+        {
+            "name": "Sonny Brisko",
+            "sub": 522000
+        },
+        {
+            "name": "Hayama Marin",
+            "sub": 519000
+        },
+        {
+            "name": "Juliana Shafira",
+            "sub": 518000
+        },
+        {
+            "name": "kyOresu",
+            "sub": 513000
+        },
+        {
+            "name": "Lee Listen",
+            "sub": 513000
+        },
+        {
+            "name": "Ren Zotto",
+            "sub": 505000
+        },
+        {
+            "name": "Nekomiya Hinata",
+            "sub": 504000
+        },
+        {
+            "name": "Lucius Merryweather",
+            "sub": 500000
+        },
+        {
+            "name": "Millie Parfait",
+            "sub": 500000
+        },
+        {
+            "name": "Hanabatake Chaika",
+            "sub": 497000
+        },
+        {
+            "name": "Miori Celesta",
+            "sub": 495000
+        },
+        {
+            "name": "Nekota Tsuna",
+            "sub": 495000
+        },
+        {
+            "name": "Petra Gurin",
+            "sub": 495000
+        },
+        {
+            "name": "Makaino Ririmu",
+            "sub": 494000
+        },
+        {
+            "name": "Trickywi",
+            "sub": 491000
+        },
+        {
+            "name": "Otonose Kanade",
+            "sub": 490000
+        },
+        {
+            "name": "Finana Ryugu",
+            "sub": 489000
+        },
+        {
+            "name": "Suzuhara Lulu",
+            "sub": 486000
+        },
+        {
+            "name": "Chibidoki",
+            "sub": 484000
+        },
+        {
+            "name": "Meloco Kyoran",
+            "sub": 480000
+        },
+        {
+            "name": "Takamiya Rion",
+            "sub": 479000
+        },
+        {
+            "name": "Frederett",
+            "sub": 478000
+        },
+        {
+            "name": "Gwelu Os Gar",
+            "sub": 478000
+        },
+        {
+            "name": "Lilpa",
+            "sub": 478000
+        },
+        {
+            "name": "Rosemi Lovelock",
+            "sub": 473000
+        },
+        {
+            "name": "Lunlun",
+            "sub": 472000
+        },
+        {
+            "name": "Mashiro",
+            "sub": 468000
+        },
+        {
+            "name": "Jururu",
+            "sub": 467000
+        },
+        {
+            "name": "Belmond Banderas",
+            "sub": 466000
+        },
+        {
+            "name": "Watarai Hibari",
+            "sub": 463000
+        },
+        {
+            "name": "Otodama Tamako",
+            "sub": 458000
+        },
+        {
+            "name": "Hanabusa Lisa",
+            "sub": 456000
+        },
+        {
+            "name": "Fulgur Ovid",
+            "sub": 455000
+        },
+        {
+            "name": "Jingburger",
+            "sub": 455000
+        },
+        {
+            "name": "Naraka",
+            "sub": 455000
+        },
+        {
+            "name": "Annin Miru",
+            "sub": 453000
+        },
+        {
+            "name": "Leos Vincent",
+            "sub": 447000
+        },
+        {
+            "name": "Maimoto Keisuke",
+            "sub": 444000
+        },
+        {
+            "name": "Kagura Nana",
+            "sub": 442000
+        },
+        {
+            "name": "Shirayuki Tomoe",
+            "sub": 441000
+        },
+        {
+            "name": "Hakase Fuyuki",
+            "sub": 437000
+        },
+        {
+            "name": "Kurohiko",
+            "sub": 436000
+        },
+        {
+            "name": "Nekoyama Sena",
+            "sub": 432000
+        },
+        {
+            "name": "Natsumi Moe",
+            "sub": 431000
+        },
+        {
+            "name": "Maya Putri",
+            "sub": 430000
+        },
+        {
+            "name": "Asumi Sena",
+            "sub": 426000
+        },
+        {
+            "name": "Nagao Kei",
+            "sub": 425000
+        },
+        {
+            "name": "Ine",
+            "sub": 424000
+        },
+        {
+            "name": "Maria Marionette",
+            "sub": 423000
+        },
+        {
+            "name": "Pikasprey",
+            "sub": 423000
+        },
+        {
+            "name": "Kaga Nazuna",
+            "sub": 422000
+        },
+        {
+            "name": "Unn\u00e4med",
+            "sub": 419000
+        },
+        {
+            "name": "Kyo Kaneko",
+            "sub": 414000
+        },
+        {
+            "name": "Tsukumo Sana",
+            "sub": 414000
+        },
+        {
+            "name": "Reimu Endou",
+            "sub": 412000
+        },
+        {
+            "name": "Ex Albio",
+            "sub": 411000
+        },
+        {
+            "name": "Dacapo",
+            "sub": 410000
+        },
+        {
+            "name": "*Namirin",
+            "sub": 409000
+        },
+        {
+            "name": "Shinomiya Runa",
+            "sub": 409000
+        },
+        {
+            "name": "Nachoneko",
+            "sub": 406000
+        },
+        {
+            "name": "Tosaki Mimi",
+            "sub": 404000
+        },
+        {
+            "name": "Gundo Mirei",
+            "sub": 402000
+        },
+        {
+            "name": "Kurikoma Komaru",
+            "sub": 402000
+        },
+        {
+            "name": "HoneyChurros",
+            "sub": 396000
+        },
+        {
+            "name": "Zentreya",
+            "sub": 396000
+        },
+        {
+            "name": "Kaminari Qpi",
+            "sub": 394000
+        },
+        {
+            "name": "DeluCat",
+            "sub": 393000
+        },
+        {
+            "name": "Fumino Tamaki",
+            "sub": 391000
+        },
+        {
+            "name": "Lain Paterson",
+            "sub": 390000
+        },
+        {
+            "name": "Nekomugi Tororo",
+            "sub": 390000
+        },
+        {
+            "name": "Yugo Asuma",
+            "sub": 390000
+        },
+        {
+            "name": "Nene Amano",
+            "sub": 388000
+        },
+        {
+            "name": "Souta",
+            "sub": 388000
+        },
+        {
+            "name": "Elizabeth Rose Bloodflame",
+            "sub": 386000
+        },
+        {
+            "name": "Oshiro Mashiro",
+            "sub": 385000
+        },
+        {
+            "name": "Aiba Uiha",
+            "sub": 383000
+        },
+        {
+            "name": "Kirschtorte",
+            "sub": 383000
+        },
+        {
+            "name": "Emikukis",
+            "sub": 378000
+        },
+        {
+            "name": "Shellin Burgundy",
+            "sub": 377000
+        },
+        {
+            "name": "Silvervale",
+            "sub": 376000
+        },
+        {
+            "name": "Neuro-sama",
+            "sub": 375000
+        },
+        {
+            "name": "Vlichan",
+            "sub": 375000
+        },
+        {
+            "name": "Mika Melatika",
+            "sub": 372000
+        },
+        {
+            "name": "Uzuki Kou",
+            "sub": 372000
+        },
+        {
+            "name": "Raora Panthera",
+            "sub": 371000
+        },
+        {
+            "name": "Shizuka Rin",
+            "sub": 371000
+        },
+        {
+            "name": "Inaba Haneru",
+            "sub": 369000
+        },
+        {
+            "name": "CottontailVA",
+            "sub": 366000
+        },
+        {
+            "name": "Kitsui Akira",
+            "sub": 366000
+        },
+        {
+            "name": "Tenjin Kotone",
+            "sub": 366000
+        },
+        {
+            "name": "Karma",
+            "sub": 365000
+        },
+        {
+            "name": "Scarle Yonaguni",
+            "sub": 365000
+        },
+        {
+            "name": "Shikinagi Akira",
+            "sub": 365000
+        },
+        {
+            "name": "Pippa Pipkin",
+            "sub": 364000
+        },
+        {
+            "name": "Shirayuki Reid",
+            "sub": 360000
+        },
+        {
+            "name": "H\u00d8RI 07",
+            "sub": 359000
+        },
+        {
+            "name": "Ruroro",
+            "sub": 357000
+        },
+        {
+            "name": "Karubi Akami",
+            "sub": 356000
+        },
+        {
+            "name": "Hizuki Yui",
+            "sub": 354000
+        },
+        {
+            "name": "Mikazuki Arion",
+            "sub": 350000
+        },
+        {
+            "name": "Levi Elipha",
+            "sub": 348000
+        },
+        {
+            "name": "Kagura Mea",
+            "sub": 345000
+        },
+        {
+            "name": "Melissa Kinrenka",
+            "sub": 344000
+        },
+        {
+            "name": "Alenka Inventra",
+            "sub": 343000
+        },
+        {
+            "name": "Genzuki Tojiro",
+            "sub": 343000
+        },
+        {
+            "name": "Akuma Nihmune",
+            "sub": 338000
+        },
+        {
+            "name": "Kitsune-san",
+            "sub": 338000
+        },
+        {
+            "name": "Yumeoi Kakeru",
+            "sub": 338000
+        },
+        {
+            "name": "Yuzuki Roa",
+            "sub": 338000
+        },
+        {
+            "name": "Yuhi Riri",
+            "sub": 334000
+        },
+        {
+            "name": "Yukoku Roberu",
+            "sub": 331000
+        },
+        {
+            "name": "Kotoka Torahime",
+            "sub": 330000
+        },
+        {
+            "name": "Shishigami Leona",
+            "sub": 330000
+        },
+        {
+            "name": "Dola",
+            "sub": 329000
+        },
+        {
+            "name": "Hanabasami Kyo",
+            "sub": 328000
+        },
+        {
+            "name": "Aster Arcadia",
+            "sub": 325000
+        },
+        {
+            "name": "Cecilia Immergreen",
+            "sub": 325000
+        },
+        {
+            "name": "Fushimi Gaku",
+            "sub": 322000
+        },
+        {
+            "name": "Yozuna Niu",
+            "sub": 322000
+        },
+        {
+            "name": "Oliver Evans",
+            "sub": 321000
+        },
+        {
+            "name": "Morinaka Kazaki",
+            "sub": 318000
+        },
+        {
+            "name": "Nishizawa 5mm",
+            "sub": 316000
+        },
+        {
+            "name": "Limealicious",
+            "sub": 311000
+        },
+        {
+            "name": "Nabi",
+            "sub": 311000
+        },
+        {
+            "name": "Nakia Sata",
+            "sub": 310000
+        },
+        {
+            "name": "Suzuki Masaru",
+            "sub": 307000
+        },
+        {
+            "name": "Hex Haywire",
+            "sub": 305000
+        },
+        {
+            "name": "Gigi Murin",
+            "sub": 302000
+        },
+        {
+            "name": "Delutaya",
+            "sub": 301000
+        },
+        {
+            "name": "Matsukai Mao",
+            "sub": 298000
+        },
+        {
+            "name": "Regis Altare",
+            "sub": 298000
+        },
+        {
+            "name": "Rosedoodle",
+            "sub": 296000
+        },
+        {
+            "name": "Yang Nari",
+            "sub": 296000
+        },
+        {
+            "name": "Kitakoji Hisui",
+            "sub": 295000
+        },
+        {
+            "name": "Sinder",
+            "sub": 293000
+        },
+        {
+            "name": "Tsumugi Kokage",
+            "sub": 292000
+        },
+        {
+            "name": "Koinoya Mai",
+            "sub": 291000
+        },
+        {
+            "name": "Aia Amare",
+            "sub": 290000
+        },
+        {
+            "name": "Snuffy",
+            "sub": 286000
+        },
+        {
+            "name": "Seraph Dazzlegarden",
+            "sub": 284000
+        },
+        {
+            "name": "Hana Macchia",
+            "sub": 281000
+        },
+        {
+            "name": "Ayatsuno Yuni",
+            "sub": 279000
+        },
+        {
+            "name": "Domyoji Cocoa",
+            "sub": 278000
+        },
+        {
+            "name": "Sophia Valentine",
+            "sub": 277000
+        },
+        {
+            "name": "Astel Leda",
+            "sub": 275000
+        },
+        {
+            "name": "Eeiris",
+            "sub": 270000
+        },
+        {
+            "name": "Shiranami Ramune",
+            "sub": 270000
+        },
+        {
+            "name": "demenishki",
+            "sub": 268000
+        },
+        {
+            "name": "Hiiragi Tsurugi",
+            "sub": 267000
+        },
+        {
+            "name": "Mononobe Alice",
+            "sub": 267000
+        },
+        {
+            "name": "Koshimizu Toru",
+            "sub": 266000
+        },
+        {
+            "name": "Sakura Ritsuki",
+            "sub": 266000
+        },
+        {
+            "name": "Ponto Nei",
+            "sub": 263000
+        },
+        {
+            "name": "Porcelain Maid",
+            "sub": 263000
+        },
+        {
+            "name": "Seto Kazuya",
+            "sub": 263000
+        },
+        {
+            "name": "Lucy Pyre",
+            "sub": 262000
+        },
+        {
+            "name": "Buffpup",
+            "sub": 261000
+        },
+        {
+            "name": "Kisaragi Ren",
+            "sub": 261000
+        },
+        {
+            "name": "Mint Fant\u00f4me",
+            "sub": 260000
+        },
+        {
+            "name": "Saruei",
+            "sub": 260000
+        },
+        {
+            "name": "Evalia",
+            "sub": 259000
+        },
+        {
+            "name": "Kanda Shoichi",
+            "sub": 258000
+        },
+        {
+            "name": "Baabel",
+            "sub": 257000
+        },
+        {
+            "name": "Shusetsu Kohaku",
+            "sub": 257000
+        },
+        {
+            "name": "Rikka",
+            "sub": 254000
+        },
+        {
+            "name": "girl_dm_",
+            "sub": 253000
+        },
+        {
+            "name": "Hayase Sou",
+            "sub": 253000
+        },
+        {
+            "name": "Fumi",
+            "sub": 249000
+        },
+        {
+            "name": "Kaheru",
+            "sub": 249000
+        },
+        {
+            "name": "Kakage",
+            "sub": 248000
+        },
+        {
+            "name": "Axia Krone",
+            "sub": 247000
+        },
+        {
+            "name": "Kuro Kurenai",
+            "sub": 247000
+        },
+        {
+            "name": "Fura Kanato",
+            "sub": 246000
+        },
+        {
+            "name": "Iida Pochi.",
+            "sub": 246000
+        },
+        {
+            "name": "Koyanagi Rou",
+            "sub": 245000
+        },
+        {
+            "name": "Nia Redalion",
+            "sub": 245000
+        },
+        {
+            "name": "Saionji Mary",
+            "sub": 245000
+        },
+        {
+            "name": "HACHI",
+            "sub": 244000
+        },
+        {
+            "name": "Sakusan Canon",
+            "sub": 244000
+        },
+        {
+            "name": "Kanade Izuru",
+            "sub": 242000
+        },
+        {
+            "name": "Kuroi Shiba",
+            "sub": 242000
+        },
+        {
+            "name": "Yamagami Karuta",
+            "sub": 241000
+        },
+        {
+            "name": "Apricot (Froot)",
+            "sub": 240000
+        },
+        {
+            "name": "Kogara Toto",
+            "sub": 240000
+        },
+        {
+            "name": "Luis Cammy",
+            "sub": 240000
+        },
+        {
+            "name": "Aoi Sakura",
+            "sub": 239000
+        },
+        {
+            "name": "Hibachi Mana",
+            "sub": 239000
+        },
+        {
+            "name": "Hoshirube Sho",
+            "sub": 236000
+        },
+        {
+            "name": "rurudo",
+            "sub": 236000
+        },
+        {
+            "name": "Yamaguro Nekuro",
+            "sub": 236000
+        },
+        {
+            "name": "Axel Syrios",
+            "sub": 235000
+        },
+        {
+            "name": "Kurusu Natsume",
+            "sub": 234000
+        },
+        {
+            "name": "Mina Aoyama",
+            "sub": 234000
+        },
+        {
+            "name": "Schneider",
+            "sub": 234000
+        },
+        {
+            "name": "Ishigami Nozomi",
+            "sub": 233000
+        },
+        {
+            "name": "Umise Yotsuha",
+            "sub": 232000
+        },
+        {
+            "name": "Ienaga Mugi",
+            "sub": 231000
+        },
+        {
+            "name": "Kaisei",
+            "sub": 231000
+        },
+        {
+            "name": "Shioriha Ruri",
+            "sub": 231000
+        },
+        {
+            "name": "Jinja",
+            "sub": 230000
+        },
+        {
+            "name": "Lumi Celestia",
+            "sub": 230000
+        },
+        {
+            "name": "Sendo Yuuhi",
+            "sub": 230000
+        },
+        {
+            "name": "Yuko Yurei",
+            "sub": 230000
+        },
+        {
+            "name": "Eli Conifer",
+            "sub": 227000
+        },
+        {
+            "name": "Onomachi Haruka",
+            "sub": 227000
+        },
+        {
+            "name": "Rumi",
+            "sub": 227000
+        },
+        {
+            "name": "Liliana Vampaia",
+            "sub": 226000
+        },
+        {
+            "name": "Warabeda Meiji",
+            "sub": 226000
+        },
+        {
+            "name": "Asahina Akane",
+            "sub": 225000
+        },
+        {
+            "name": "Henya the Genius",
+            "sub": 225000
+        },
+        {
+            "name": "Kageyama Shien",
+            "sub": 224000
+        },
+        {
+            "name": "Mosura Meso",
+            "sub": 224000
+        },
+        {
+            "name": "Comame",
+            "sub": 223000
+        },
+        {
+            "name": "Doppio Dropscythe",
+            "sub": 223000
+        },
+        {
+            "name": "Laibaht",
+            "sub": 220000
+        },
+        {
+            "name": "Shirayuki Hina",
+            "sub": 220000
+        },
+        {
+            "name": "Shirayuki Mishiro",
+            "sub": 220000
+        },
+        {
+            "name": "Mano Aloe",
+            "sub": 219000
+        },
+        {
+            "name": "OniGiri",
+            "sub": 219000
+        },
+        {
+            "name": "Ver Vermillion",
+            "sub": 217000
+        },
+        {
+            "name": "Artemis of the Blue",
+            "sub": 216000
+        },
+        {
+            "name": "Zen Gunawan",
+            "sub": 216000
+        },
+        {
+            "name": "Arurandeisu",
+            "sub": 215000
+        },
+        {
+            "name": "fallenshadow",
+            "sub": 215000
+        },
+        {
+            "name": "Saiki Ittetsu",
+            "sub": 215000
+        },
+        {
+            "name": "Nun Bora",
+            "sub": 214000
+        },
+        {
+            "name": "Draki Kona",
+            "sub": 213000
+        },
+        {
+            "name": "Shishido Akari",
+            "sub": 213000
+        },
+        {
+            "name": "Airi Kanna",
+            "sub": 212000
+        },
+        {
+            "name": "SquChan",
+            "sub": 212000
+        },
+        {
+            "name": "Matara Kan",
+            "sub": 211000
+        },
+        {
+            "name": "Ryugasaki Rene",
+            "sub": 211000
+        },
+        {
+            "name": "Yano Kuromu",
+            "sub": 209000
+        },
+        {
+            "name": "Emma\u2605August",
+            "sub": 207000
+        },
+        {
+            "name": "Hizuki Miu",
+            "sub": 207000
+        },
+        {
+            "name": "Seffyna",
+            "sub": 207000
+        },
+        {
+            "name": "Mizuki",
+            "sub": 205000
+        },
+        {
+            "name": "Yumeno Akari",
+            "sub": 205000
+        },
+        {
+            "name": "Noir Vesper",
+            "sub": 204000
+        },
+        {
+            "name": "Tenma Maemi",
+            "sub": 202000
+        },
+        {
+            "name": "Yomeguri Hana",
+            "sub": 202000
+        },
+        {
+            "name": "Yukishiro Mahiro",
+            "sub": 202000
+        },
+        {
+            "name": "Gabu Rieru",
+            "sub": 201000
+        },
+        {
+            "name": "Akabane Youko",
+            "sub": 200000
+        },
+        {
+            "name": "KOKORO",
+            "sub": 200000
+        },
+        {
+            "name": "Tenshi Nano",
+            "sub": 200000
+        },
+        {
+            "name": "Akane Lize",
+            "sub": 199000
+        },
+        {
+            "name": "Azana Piroparu",
+            "sub": 197000
+        },
+        {
+            "name": "Hina Misora",
+            "sub": 196000
+        },
+        {
+            "name": "Igarashi Rika",
+            "sub": 195000
+        },
+        {
+            "name": "Sunny",
+            "sub": 195000
+        },
+        {
+            "name": "Magni Dezmond",
+            "sub": 193000
+        },
+        {
+            "name": "Amemiya Nazuna",
+            "sub": 192000
+        },
+        {
+            "name": "Chiyoura Chiyomi",
+            "sub": 192000
+        },
+        {
+            "name": "Sakaki Ness",
+            "sub": 192000
+        },
+        {
+            "name": "Akatsuki Ban Mai",
+            "sub": 189000
+        },
+        {
+            "name": "And Uge",
+            "sub": 189000
+        },
+        {
+            "name": "Aragami Oga",
+            "sub": 189000
+        },
+        {
+            "name": "Airi Cordelia",
+            "sub": 188000
+        },
+        {
+            "name": "Tentei Forte",
+            "sub": 188000
+        },
+        {
+            "name": "Kudo Chitose",
+            "sub": 187000
+        },
+        {
+            "name": "Mei-Ling",
+            "sub": 187000
+        },
+        {
+            "name": "Murasaki Hiroshi",
+            "sub": 186000
+        },
+        {
+            "name": "Sorahoshi Kirame",
+            "sub": 186000
+        },
+        {
+            "name": "Lily Linglan",
+            "sub": 182000
+        },
+        {
+            "name": "Pastaroni Ravioli",
+            "sub": 182000
+        },
+        {
+            "name": "FalseEyeD",
+            "sub": 180000
+        },
+        {
+            "name": "Tekitou",
+            "sub": 180000
+        },
+        {
+            "name": "Ushimi Ichigo",
+            "sub": 180000
+        },
+        {
+            "name": "Aizono Manami",
+            "sub": 177000
+        },
+        {
+            "name": "Julie Chan",
+            "sub": 177000
+        },
+        {
+            "name": "Usami Rito",
+            "sub": 176000
+        },
+        {
+            "name": "Vantacrow Bringer",
+            "sub": 176000
+        },
+        {
+            "name": "Vezalius Bandage",
+            "sub": 175000
+        },
+        {
+            "name": "Inami Rai",
+            "sub": 174000
+        },
+        {
+            "name": "Lunaria",
+            "sub": 174000
+        },
+        {
+            "name": "Murakumo Kagetsu",
+            "sub": 174000
+        },
+        {
+            "name": "Violetta Calytrix",
+            "sub": 174000
+        },
+        {
+            "name": "Gavis Bettel",
+            "sub": 173000
+        },
+        {
+            "name": "Hikasa Tomoshika",
+            "sub": 173000
+        },
+        {
+            "name": "Suzuya Aki",
+            "sub": 173000
+        },
+        {
+            "name": "Lilian Grimmxandra",
+            "sub": 172000
+        },
+        {
+            "name": "Amemori Sayo",
+            "sub": 171000
+        },
+        {
+            "name": "Banzoin Hakka",
+            "sub": 171000
+        },
+        {
+            "name": "Seto Miyako",
+            "sub": 171000
+        },
+        {
+            "name": "Min Suha",
+            "sub": 170000
+        },
+        {
+            "name": "Minase",
+            "sub": 169000
+        },
+        {
+            "name": "Harusaki Air",
+            "sub": 168000
+        },
+        {
+            "name": "Gilzaren III",
+            "sub": 167000
+        },
+        {
+            "name": "Mokota Mememe",
+            "sub": 167000
+        },
+        {
+            "name": "Camila",
+            "sub": 164000
+        },
+        {
+            "name": "Serafina",
+            "sub": 164000
+        },
+        {
+            "name": "Siri",
+            "sub": 164000
+        },
+        {
+            "name": "Yu Q. Wilson",
+            "sub": 164000
+        },
+        {
+            "name": "Amarynn",
+            "sub": 162000
+        },
+        {
+            "name": "Ishikari Akari",
+            "sub": 162000
+        },
+        {
+            "name": "Kaburaki Roco",
+            "sub": 162000
+        },
+        {
+            "name": "Pinky Pop Hepburn",
+            "sub": 161000
+        },
+        {
+            "name": "Hizaki Gamma",
+            "sub": 160000
+        },
+        {
+            "name": "Kuramochi Meruto",
+            "sub": 160000
+        },
+        {
+            "name": "Otsuka Ray",
+            "sub": 160000
+        },
+        {
+            "name": "Amanogawa Shiina",
+            "sub": 159000
+        },
+        {
+            "name": "Kamishiro Natsume",
+            "sub": 158000
+        },
+        {
+            "name": "Shibuya Hajime",
+            "sub": 158000
+        },
+        {
+            "name": "Shiratama Utano",
+            "sub": 157000
+        },
+        {
+            "name": "Shumi Shumikea",
+            "sub": 157000
+        },
+        {
+            "name": "Earendel",
+            "sub": 156000
+        },
+        {
+            "name": "Matsunaga Iori",
+            "sub": 156000
+        },
+        {
+            "name": "obkatiekat",
+            "sub": 156000
+        },
+        {
+            "name": "Yuuka Bear",
+            "sub": 156000
+        },
+        {
+            "name": "Megalodon",
+            "sub": 155000
+        },
+        {
+            "name": "Miyoshino Shiki",
+            "sub": 155000
+        },
+        {
+            "name": "Chloe Pawapua",
+            "sub": 154000
+        },
+        {
+            "name": "Hinokuma Ran",
+            "sub": 154000
+        },
+        {
+            "name": "Azuchi Momo",
+            "sub": 153000
+        },
+        {
+            "name": "Naruse Naru",
+            "sub": 153000
+        },
+        {
+            "name": "Zona",
+            "sub": 153000
+        },
+        {
+            "name": "dtto.",
+            "sub": 152000
+        },
+        {
+            "name": "Minase Rio",
+            "sub": 152000
+        },
+        {
+            "name": "Vienna",
+            "sub": 152000
+        },
+        {
+            "name": "Hoozuki Warabe",
+            "sub": 149000
+        },
+        {
+            "name": "Hanasaki Miyabi",
+            "sub": 148000
+        },
+        {
+            "name": "Akagi Wen",
+            "sub": 147000
+        },
+        {
+            "name": "Machina X Flayon",
+            "sub": 147000
+        },
+        {
+            "name": "Michi Mochievee",
+            "sub": 147000
+        },
+        {
+            "name": "Futakuchi Mana",
+            "sub": 146000
+        },
+        {
+            "name": "Kanna Tamachi",
+            "sub": 146000
+        },
+        {
+            "name": "Kronus Genovius",
+            "sub": 146000
+        },
+        {
+            "name": "Todo Kohaku",
+            "sub": 146000
+        },
+        {
+            "name": "Kurune Kokuri",
+            "sub": 145000
+        },
+        {
+            "name": "Todoroki Kyoko",
+            "sub": 145000
+        },
+        {
+            "name": "Yatogami Fuma",
+            "sub": 145000
+        },
+        {
+            "name": "Moira",
+            "sub": 143000
+        },
+        {
+            "name": "Crunchyroll-Hime",
+            "sub": 142000
+        },
+        {
+            "name": "Rainhoe",
+            "sub": 142000
+        },
+        {
+            "name": "RLuo",
+            "sub": 142000
+        },
+        {
+            "name": "Meica05",
+            "sub": 141000
+        },
+        {
+            "name": "Taka Radjiman",
+            "sub": 141000
+        },
+        {
+            "name": "Kishido Temma",
+            "sub": 140000
+        },
+        {
+            "name": "Kitami Yusei",
+            "sub": 140000
+        },
+        {
+            "name": "Amagase Muyu",
+            "sub": 138000
+        },
+        {
+            "name": "Aoi Hinamori",
+            "sub": 138000
+        },
+        {
+            "name": "Miu",
+            "sub": 138000
+        },
+        {
+            "name": "Qualia Qu",
+            "sub": 138000
+        },
+        {
+            "name": "Aruse Inu",
+            "sub": 135000
+        },
+        {
+            "name": "Kamiko Kana",
+            "sub": 135000
+        },
+        {
+            "name": "Amaya Miyu",
+            "sub": 134000
+        },
+        {
+            "name": "Shee Icho",
+            "sub": 134000
+        },
+        {
+            "name": "Park Dona",
+            "sub": 133000
+        },
+        {
+            "name": "CondesaVR",
+            "sub": 132000
+        },
+        {
+            "name": "FEARSONA",
+            "sub": 132000
+        },
+        {
+            "name": "Nemesis",
+            "sub": 132000
+        },
+        {
+            "name": "Amaki Pururu",
+            "sub": 131000
+        },
+        {
+            "name": "Arahashi Tabi",
+            "sub": 131000
+        },
+        {
+            "name": "Minerva Rosaline",
+            "sub": 131000
+        },
+        {
+            "name": "Nagase Yuka",
+            "sub": 131000
+        },
+        {
+            "name": "Selia Aisnith",
+            "sub": 131000
+        },
+        {
+            "name": "Hinabe HongFei",
+            "sub": 130000
+        },
+        {
+            "name": "Seki",
+            "sub": 130000
+        },
+        {
+            "name": "Ayamy",
+            "sub": 129000
+        },
+        {
+            "name": "Josuiji Shinri",
+            "sub": 129000
+        },
+        {
+            "name": "Mitsurugi Lia",
+            "sub": 129000
+        },
+        {
+            "name": "Eileennoir",
+            "sub": 127000
+        },
+        {
+            "name": "PillowDear",
+            "sub": 127000
+        },
+        {
+            "name": "Siska Leontyne",
+            "sub": 126000
+        },
+        {
+            "name": "Hibiki Du Ca",
+            "sub": 125000
+        },
+        {
+            "name": "Jurard T Rexford",
+            "sub": 125000
+        },
+        {
+            "name": "Momoka Mocha",
+            "sub": 125000
+        },
+        {
+            "name": "Maisaki Berry",
+            "sub": 124000
+        },
+        {
+            "name": "Kazami Kuku",
+            "sub": 123000
+        },
+        {
+            "name": "Miilkywayz",
+            "sub": 123000
+        },
+        {
+            "name": "Sayu Sincronisity",
+            "sub": 123000
+        },
+        {
+            "name": "Audrey Mina",
+            "sub": 122000
+        },
+        {
+            "name": "Deidey",
+            "sub": 122000
+        },
+        {
+            "name": "GX Aura",
+            "sub": 122000
+        },
+        {
+            "name": "Hasuki Rui",
+            "sub": 122000
+        },
+        {
+            "name": "Lyrica",
+            "sub": 122000
+        },
+        {
+            "name": "Shirayuri Lily",
+            "sub": 122000
+        },
+        {
+            "name": "Milan Kestrel",
+            "sub": 121000
+        },
+        {
+            "name": "Kakyoin Chieri",
+            "sub": 120000
+        },
+        {
+            "name": "Kevin Vangardo",
+            "sub": 120000
+        },
+        {
+            "name": "Senz",
+            "sub": 120000
+        },
+        {
+            "name": "Kuromu",
+            "sub": 119000
+        },
+        {
+            "name": "Nott",
+            "sub": 119000
+        },
+        {
+            "name": "Yaguruma Rine",
+            "sub": 119000
+        },
+        {
+            "name": "Kuyun Ubye",
+            "sub": 118000
+        },
+        {
+            "name": "Rinkou Ashelia",
+            "sub": 118000
+        },
+        {
+            "name": "Itoi Toi",
+            "sub": 117000
+        },
+        {
+            "name": "Claude Clawmark",
+            "sub": 116000
+        },
+        {
+            "name": "Fugami Nanana",
+            "sub": 115000
+        },
+        {
+            "name": "Hoku",
+            "sub": 115000
+        },
+        {
+            "name": "Mai",
+            "sub": 115000
+        },
+        {
+            "name": "Rafel Alva",
+            "sub": 115000
+        },
+        {
+            "name": "Anny",
+            "sub": 114000
+        },
+        {
+            "name": "Himesaki Yuzuru",
+            "sub": 114000
+        },
+        {
+            "name": "Kashiko Mari",
+            "sub": 114000
+        },
+        {
+            "name": "USAGIHIME",
+            "sub": 114000
+        },
+        {
+            "name": "YadiDoll Zaotome",
+            "sub": 114000
+        },
+        {
+            "name": "Dasu",
+            "sub": 113000
+        },
+        {
+            "name": "Himekuma Ribon",
+            "sub": 113000
+        },
+        {
+            "name": "Mana Renewal",
+            "sub": 113000
+        },
+        {
+            "name": "Pia Meraleo",
+            "sub": 113000
+        },
+        {
+            "name": "Haruka Karibu",
+            "sub": 112000
+        },
+        {
+            "name": "Hanamori Healthy",
+            "sub": 111000
+        },
+        {
+            "name": "Hourei Tenten",
+            "sub": 111000
+        },
+        {
+            "name": "Izumo Kasumi",
+            "sub": 111000
+        },
+        {
+            "name": "Kuramochi Kyouko",
+            "sub": 111000
+        },
+        {
+            "name": "Yuler4\u00fc",
+            "sub": 111000
+        },
+        {
+            "name": "Lumi",
+            "sub": 110000
+        },
+        {
+            "name": "Souya Ichika",
+            "sub": 110000
+        },
+        {
+            "name": "Asuka Hina",
+            "sub": 109000
+        },
+        {
+            "name": "Layna Lazar",
+            "sub": 109000
+        },
+        {
+            "name": "Kagekiri Maeve",
+            "sub": 108000
+        },
+        {
+            "name": "Nekoda Pepero",
+            "sub": 108000
+        },
+        {
+            "name": "Neneko Mashiro",
+            "sub": 108000
+        },
+        {
+            "name": "Fujikura Uruka",
+            "sub": 107000
+        },
+        {
+            "name": "KJ Blosch",
+            "sub": 107000
+        },
+        {
+            "name": "Rurine Luna",
+            "sub": 107000
+        },
+        {
+            "name": "TiroLoco",
+            "sub": 107000
+        },
+        {
+            "name": "Victoria Brightshield",
+            "sub": 107000
+        },
+        {
+            "name": "GongGi",
+            "sub": 106000
+        },
+        {
+            "name": "Alice Mana",
+            "sub": 105000
+        },
+        {
+            "name": "Anok",
+            "sub": 105000
+        },
+        {
+            "name": "Hime Hajime",
+            "sub": 105000
+        },
+        {
+            "name": "Inari Iroha",
+            "sub": 105000
+        },
+        {
+            "name": "LineChu",
+            "sub": 105000
+        },
+        {
+            "name": "Mari Yume",
+            "sub": 105000
+        },
+        {
+            "name": "Shino Laila",
+            "sub": 105000
+        },
+        {
+            "name": "ZEA Cornelia",
+            "sub": 105000
+        },
+        {
+            "name": "Ha Yun",
+            "sub": 104000
+        },
+        {
+            "name": "HercuLes",
+            "sub": 104000
+        },
+        {
+            "name": "Bana",
+            "sub": 103000
+        },
+        {
+            "name": "Lee Roha",
+            "sub": 103000
+        },
+        {
+            "name": "Supika Hoshino",
+            "sub": 103000
+        },
+        {
+            "name": "515",
+            "sub": 102000
+        },
+        {
+            "name": "Amakawa Hano",
+            "sub": 102000
+        },
+        {
+            "name": "Enomiya Milk",
+            "sub": 102000
+        },
+        {
+            "name": "Nymphaaea",
+            "sub": 102000
+        },
+        {
+            "name": "Utsugi Uyu",
+            "sub": 102000
+        },
+        {
+            "name": "Aletta Sky",
+            "sub": 101000
+        },
+        {
+            "name": "Ariya Risu",
+            "sub": 101000
+        },
+        {
+            "name": "Bonnivier Pranaja",
+            "sub": 101000
+        },
+        {
+            "name": "Kaneko Lumi",
+            "sub": 101000
+        },
+        {
+            "name": "KSP",
+            "sub": 101000
+        },
+        {
+            "name": "Margaret North",
+            "sub": 101000
+        },
+        {
+            "name": "Suwako Nao",
+            "sub": 101000
+        },
+        {
+            "name": "Yamato Iori",
+            "sub": 101000
+        },
+        {
+            "name": "Lee Jooin",
+            "sub": 100000
+        },
+        {
+            "name": "Shin Yuya",
+            "sub": 99900
+        },
+        {
+            "name": "Evelyn",
+            "sub": 99700
+        },
+        {
+            "name": "Miyu Ottavia",
+            "sub": 99300
+        },
+        {
+            "name": "moenaomii",
+            "sub": 99300
+        },
+        {
+            "name": "Emberlith",
+            "sub": 99100
+        },
+        {
+            "name": "Zaion LanZa",
+            "sub": 98100
+        },
+        {
+            "name": "Mirea Sheltzs",
+            "sub": 97900
+        },
+        {
+            "name": "Suzumi Nemo",
+            "sub": 97700
+        },
+        {
+            "name": "Sanagi Yuzu",
+            "sub": 97400
+        },
+        {
+            "name": "Mikado",
+            "sub": 96900
+        },
+        {
+            "name": "Kagura Suzu",
+            "sub": 96800
+        },
+        {
+            "name": "Oumiya Emma",
+            "sub": 96100
+        },
+        {
+            "name": "Lutralutra",
+            "sub": 95100
+        },
+        {
+            "name": "Princess Zelina",
+            "sub": 94700
+        },
+        {
+            "name": "Aokumo Rin",
+            "sub": 94600
+        },
+        {
+            "name": "Serenade Oxblood",
+            "sub": 94600
+        },
+        {
+            "name": "Baacharu",
+            "sub": 94500
+        },
+        {
+            "name": "Zekai",
+            "sub": 94400
+        },
+        {
+            "name": "Sekishiro Mico",
+            "sub": 94100
+        },
+        {
+            "name": "Pan",
+            "sub": 93900
+        },
+        {
+            "name": "Kitakami Futaba",
+            "sub": 93700
+        },
+        {
+            "name": "Tachitsute Toto",
+            "sub": 93400
+        },
+        {
+            "name": "Amicia Michella",
+            "sub": 93300
+        },
+        {
+            "name": "Yunohara Izumi",
+            "sub": 93300
+        },
+        {
+            "name": "Tamanoi Nana",
+            "sub": 92300
+        },
+        {
+            "name": "YOSHIKA",
+            "sub": 91900
+        },
+        {
+            "name": "Carro Pino",
+            "sub": 91600
+        },
+        {
+            "name": "Shabel Tonya",
+            "sub": 91500
+        },
+        {
+            "name": "Erispheria",
+            "sub": 91300
+        },
+        {
+            "name": "Azato Stacia",
+            "sub": 90800
+        },
+        {
+            "name": "Hizuki Rurufu",
+            "sub": 90700
+        },
+        {
+            "name": "Yaezawa Natori",
+            "sub": 90700
+        },
+        {
+            "name": "Lua Asuka",
+            "sub": 90400
+        },
+        {
+            "name": "Karissa Sharlotte",
+            "sub": 90300
+        },
+        {
+            "name": "Cheri Lupina",
+            "sub": 89500
+        },
+        {
+            "name": "Kataribe Tsumugu",
+            "sub": 89300
+        },
+        {
+            "name": "So Nagi",
+            "sub": 89100
+        },
+        {
+            "name": "Kongou Iroha",
+            "sub": 87800
+        },
+        {
+            "name": "Nagisa Trout",
+            "sub": 87800
+        },
+        {
+            "name": "Jitomi Monoe",
+            "sub": 87700
+        },
+        {
+            "name": "Morino Merun",
+            "sub": 87400
+        },
+        {
+            "name": "Regrush Lionheart",
+            "sub": 87200
+        },
+        {
+            "name": "Takahata",
+            "sub": 87100
+        },
+        {
+            "name": "Oumua",
+            "sub": 86900
+        },
+        {
+            "name": "Cygnus",
+            "sub": 86700
+        },
+        {
+            "name": "Hera Garalea",
+            "sub": 85800
+        },
+        {
+            "name": "Reina Sun",
+            "sub": 85800
+        },
+        {
+            "name": "Mitwun",
+            "sub": 85700
+        },
+        {
+            "name": "Octavio",
+            "sub": 85700
+        },
+        {
+            "name": "Shimamura Charlotte",
+            "sub": 85600
+        },
+        {
+            "name": "Himemiya Rie",
+            "sub": 85300
+        },
+        {
+            "name": "Ywuria",
+            "sub": 85300
+        },
+        {
+            "name": "JustMomoRina",
+            "sub": 84900
+        },
+        {
+            "name": "Yukki Riko",
+            "sub": 84900
+        },
+        {
+            "name": "Mira Fridayanti",
+            "sub": 83800
+        },
+        {
+            "name": "Juna Unagi",
+            "sub": 83400
+        },
+        {
+            "name": "Pirrou Sophie",
+            "sub": 83400
+        },
+        {
+            "name": "Tenko Shibuki",
+            "sub": 82500
+        },
+        {
+            "name": "Vexoria the Sun Eater",
+            "sub": 82400
+        },
+        {
+            "name": "Yozakura Tama",
+            "sub": 81900
+        },
+        {
+            "name": "Gokigen Naname",
+            "sub": 81100
+        },
+        {
+            "name": "Lily Ifeta",
+            "sub": 80500
+        },
+        {
+            "name": "Hanakumo Rin",
+            "sub": 79900
+        },
+        {
+            "name": "Loco Lost",
+            "sub": 79700
+        },
+        {
+            "name": "Gentiana Helix",
+            "sub": 79500
+        },
+        {
+            "name": "Layla Alstroemeria",
+            "sub": 79300
+        },
+        {
+            "name": "Amakomo Linon",
+            "sub": 79200
+        },
+        {
+            "name": "Dr.NOVA(e)",
+            "sub": 78000
+        },
+        {
+            "name": "Yumemiya Alice",
+            "sub": 77800
+        },
+        {
+            "name": "Alias Anono",
+            "sub": 77700
+        },
+        {
+            "name": "Nemutaka Yuta",
+            "sub": 77700
+        },
+        {
+            "name": "Kisara",
+            "sub": 77400
+        },
+        {
+            "name": "Silvia Valleria",
+            "sub": 77400
+        },
+        {
+            "name": "Kunai Nakasato",
+            "sub": 77300
+        },
+        {
+            "name": "No.Fifteen",
+            "sub": 77300
+        },
+        {
+            "name": "Achikita Chinami",
+            "sub": 77200
+        },
+        {
+            "name": "Aitzu Arashi",
+            "sub": 76900
+        },
+        {
+            "name": "Melita X",
+            "sub": 76700
+        },
+        {
+            "name": "Laguna Juju",
+            "sub": 76600
+        },
+        {
+            "name": "Minazuki Natsuki",
+            "sub": 76600
+        },
+        {
+            "name": "Crimzon Ruze",
+            "sub": 76500
+        },
+        {
+            "name": "Usuwa Suu",
+            "sub": 76400
+        },
+        {
+            "name": "Lucene",
+            "sub": 76300
+        },
+        {
+            "name": "Cyan Nyan",
+            "sub": 76200
+        },
+        {
+            "name": "Sakuragi Miria",
+            "sub": 76200
+        },
+        {
+            "name": "Fuyo Cloverfield",
+            "sub": 75900
+        },
+        {
+            "name": "GEEGA",
+            "sub": 75900
+        },
+        {
+            "name": "Yukinoshita Peo",
+            "sub": 75800
+        },
+        {
+            "name": "Amai Hiyo",
+            "sub": 75700
+        },
+        {
+            "name": "Hatsuka Neru",
+            "sub": 75300
+        }
+    ]
+}

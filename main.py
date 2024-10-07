@@ -1,6 +1,8 @@
-import requests
-from bs4 import BeautifulSoup
 import time
+import requests
+import json
+from bs4 import BeautifulSoup
+
 
 def generate_url(page_num):
     return f"https://hololist.net/top/page/{page_num}/"
@@ -34,16 +36,26 @@ def main():
         page_vtubers = parse_vtubers(url)
         vtubers.extend(page_vtubers)
 
-        
+        # где 68 конечная страница
         page_num += 1
         if page_num == 68:
             break
         time.sleep(.1)  # Добавляем задержку, чтобы не перегружать сервер
-
+        
+    data = {}
+    data["vtuname"] = []
+    
     # Вывод результатов
     for i, vtuber in enumerate(vtubers, start=1):
         print(f"{i}. Name: {vtuber['name']}, Subscribers: {vtuber['subscribers']}")
         print("-----")
+        
+        data["vtuname"].append({'name': vtuber["name"], 'sub': vtuber["subscribers"]})
+        
+    with open('data.json', 'w') as outfile:
+        json.dump(data, outfile)
+        
+        
 
 if __name__ == "__main__":
     main()

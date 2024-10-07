@@ -1,0 +1,44 @@
+import json
+
+# Загрузка данных из JSON файла
+with open('data.json', 'r') as file:
+    data = json.load(file)
+
+# Создание словарей для каждого интервала
+legend = {}
+super_rary = {}
+epic = {}
+rary = {}
+ordinary = {}
+
+# Обработка данных и заполнение словарей
+for vtuber in data['vtuname']:
+    name = vtuber['name']
+    subs = vtuber['sub']
+
+    if subs >= 865000:
+        legend[name] = subs
+    elif subs >= 396000:
+        super_rary[name] = subs
+    elif subs >= 254000:
+        epic[name] = subs
+    elif subs >= 182000:
+        rary[name] = subs
+    else:
+        ordinary[name] = subs
+
+# Вывод результатов
+print("Legend:")
+print(legend)
+
+print("\nSuper-rary:")
+print(super_rary)
+
+print("\nEpic:")
+print(epic)
+
+print("\nRary:")
+print(rary)
+
+print("\nOrdinary:")
+print(ordinary)
